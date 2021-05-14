@@ -17,9 +17,3 @@ Corrections modified through Github
 
 Final Testing done locally by Tade
 
-
-*****^^^^^^^^^^^^******
-
-Merge Conflicts resolution
-
-# Change No 1
