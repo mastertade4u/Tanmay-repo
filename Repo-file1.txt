@@ -11,7 +11,15 @@ There were certain corrections that I have fixed. Thanks
 # Testing Version 2
 
 Corrections modified through Github
+******************
 
 # Testing Version 3 & Final
 
 Final Testing done locally by Tade
+
+
+*****^^^^^^^^^^^^******
+
+Merge Conflicts resolution
+
+# Change No 1
