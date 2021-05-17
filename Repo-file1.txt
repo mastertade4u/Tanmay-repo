@@ -32,3 +32,7 @@ Checking git diff HEAD^
 $ Testing Rebase 2
 
 # Rebase Changes in Main
+
+
+# Rebase Trail 1
+
