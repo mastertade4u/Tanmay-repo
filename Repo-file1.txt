@@ -38,3 +38,4 @@ $ Testing Rebase 2
 
 # Rebase Trail 2
 
+# Merge and Rebase Diff 1
