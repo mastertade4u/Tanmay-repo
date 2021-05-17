@@ -1,7 +1,7 @@
 Hello DevOps.
 This is the first modification.
 This is the second modification.
-This is the final correction. Thanks!! 
+This is the final correction. Thanks!
 
 ******************
 # Testing Starts from here.
