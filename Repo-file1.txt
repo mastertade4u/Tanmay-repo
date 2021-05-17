@@ -36,3 +36,5 @@ $ Testing Rebase 2
 
 # Rebase Trail 1
 
+# Rebase Trail 2
+
